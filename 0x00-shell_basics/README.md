@@ -4,7 +4,7 @@ File descriptions
 1-listitlists displays contents of current directory
 2-bring_me_home takes you to user's home directory
 3-listfiles list files in long format
-4
+4-listmorefiles listall files in long format
 5
 6
 7
