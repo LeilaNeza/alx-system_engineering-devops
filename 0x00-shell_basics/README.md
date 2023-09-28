@@ -1,7 +1,7 @@
 File descriptions
 
 '0-current_working_directory' prints the current working directory
-1
+1-listitlists contents of current directory
 2
 3
 4
