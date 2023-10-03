@@ -1,1 +1,1 @@
-This repository is for navigating the shell
+THis is for shell variables and expansions
